@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ipl_database;
+DROP USER IF EXISTS ipl_user;
